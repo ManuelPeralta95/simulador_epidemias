@@ -19,7 +19,7 @@ RED = (180, 30, 30)
 BUTTON_BLUE = (50, 120, 220)
 BUTTON_HOVER = (30, 100, 200)
 
-BACKGROUND = WHITE
+BACKGROUND = BLACK
 
 # Fuentes
 FONT = pygame.font.SysFont("Arial", 20)
